@@ -1,0 +1,14 @@
+C:\Users\Алина Ровенская\Desktop\дз\HW\bin\Debug\net9.0\HW.exe
+C:\Users\Алина Ровенская\Desktop\дз\HW\bin\Debug\net9.0\HW.deps.json
+C:\Users\Алина Ровенская\Desktop\дз\HW\bin\Debug\net9.0\HW.runtimeconfig.json
+C:\Users\Алина Ровенская\Desktop\дз\HW\bin\Debug\net9.0\HW.dll
+C:\Users\Алина Ровенская\Desktop\дз\HW\bin\Debug\net9.0\HW.pdb
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.AssemblyInfoInputs.cache
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.AssemblyInfo.cs
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.dll
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\refint\HW.dll
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.pdb
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\HW.genruntimeconfig.cache
+C:\Users\Алина Ровенская\Desktop\дз\HW\obj\Debug\net9.0\ref\HW.dll
